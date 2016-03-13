@@ -50,7 +50,7 @@ static OCRHandler* instance = nil;
 -(void)OCR:(UIImage*)image{
     
     NSDictionary* dic = @{
-                          @"secret_key" : @"sk_7adb4f1c8adbe26cfbd28c0f",
+                          @"secret_key" : @"",
                           @"country" : @"au,auwide,eu,gb,kr,mx,sg,us",
                           @"tasks" : @"plate",
                           };

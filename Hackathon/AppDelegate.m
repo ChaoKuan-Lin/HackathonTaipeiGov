@@ -22,8 +22,8 @@
     [Parse enableLocalDatastore];
     
     // Initialize Parse.
-    [Parse setApplicationId:@"zsM7jMlv5rSBynZReBXIvUWNgwx0hmpqXrHodpO7"
-                  clientKey:@"pLrr1ajt2KydDrKT5f4ifAgxU2DVnsLAJXH2pdpG"];
+    [Parse setApplicationId:@""
+                  clientKey:@""];
     
     // Register for Push Notitications
     UIUserNotificationType userNotificationTypes = (UIUserNotificationTypeAlert |
